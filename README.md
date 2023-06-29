@@ -54,16 +54,12 @@ Your app is ready to be deployed!
 ## ✌️ Screenshots
 ### 🧑‍💻 Desktop Version
 ### 📲 Mobile / Tab Version 
-<!-- ![Screenshot 2023-04-13 112341](https://user-images.githubusercontent.com/125623888/231668150-344ca301-4586-4f0d-b625-70607a1b7e73.png)
-![Screenshot 2023-04-13 114158](https://user-images.githubusercontent.com/125623888/231669915-d3b0995e-6675-4afc-948e-7096ee3f390e.png)
-![Screenshot 2023-04-13 114700](https://user-images.githubusercontent.com/125623888/231670315-f138542e-ce7f-40a6-b7c9-f7720081ba97.png)
-![Screenshot 2023-04-13 114805](https://user-images.githubusercontent.com/125623888/231670528-adef94a1-c34c-4b4f-a9fc-de4bc50b762e.png) -->
 
 <div align="center">
-    <img src="https://user-images.githubusercontent.com/125623888/231668150-344ca301-4586-4f0d-b625-70607a1b7e73.png" width="400px"</img>
-    <img src="https://user-images.githubusercontent.com/125623888/231669915-d3b0995e-6675-4afc-948e-7096ee3f390e.png" width="400px"</img>
-    <img src="https://user-images.githubusercontent.com/125623888/231670315-f138542e-ce7f-40a6-b7c9-f7720081ba97.png" width="400px"</img>
-    <img src="https://user-images.githubusercontent.com/125623888/231670528-adef94a1-c34c-4b4f-a9fc-de4bc50b762e.png" width="400px"</img>
+    <img src="https://github.com/Hemantk1234/LGMVIP-Web-Task-01.github.io/assets/125623888/8efd3554-88f4-40fb-96cd-838d98c50ea3" width="400px"</img>
+    <img src="https://github.com/Hemantk1234/LGMVIP-Web-Task-01.github.io/assets/125623888/409a065f-2abe-4458-b7c4-44c8ae07bb02" width="400px"</img>
+    <img src="https://github.com/Hemantk1234/LGMVIP-Web-Task-01.github.io/assets/125623888/179e5083-3407-45f5-b8dd-458ce2640bf1" width="400px"</img>
+    <img src="https://github.com/Hemantk1234/LGMVIP-Web-Task-01.github.io/assets/125623888/f191e84c-4af8-491a-8d56-fce439eafbff" width="400px"</img>
 </div>
 <br/>
 <hr/>
