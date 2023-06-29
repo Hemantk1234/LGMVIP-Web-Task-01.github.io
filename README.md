@@ -6,7 +6,7 @@ Todos List Web Application is a simple web application that allows users to (Add
 <br/>
 
 ## 🔨 Tools Used
-It is built using [React JS ,Bootstrap.]
+It is built using [React JS]
 -  Version Control System: Git
 -  VCS Hosting: GitHub
 -  Front-End: React.js
@@ -16,7 +16,7 @@ It is built using [React JS ,Bootstrap.]
 
 ## 👨‍💻 How to use this project
 
-Clone the project to your local machine or download the repo
+Clone the project to your local machine or download the repository.
 Nodejs / NPM must be installed on your PC.
 Open the project in your favorite IDE (VS Code, Sublime Text, Atom, etc)
 
@@ -46,10 +46,9 @@ Your app is ready to be deployed!
 
 ## 🔗 Links
 
-> ##💁‍♂️ Checkout the Website [Todos-List Web Application](https://hemantk1234.github.io/Todos-List.github.io/)
+> ##💁‍♂️ Checkout the Website [Todos-List Web Application](https://lgmvip-web-task-01.netlify.app/)
 >
 <br/>
-
 <hr/>
 
 ## ✌️ Screenshots
@@ -66,7 +65,6 @@ Your app is ready to be deployed!
     <img src="https://user-images.githubusercontent.com/125623888/231670315-f138542e-ce7f-40a6-b7c9-f7720081ba97.png" width="400px"</img>
     <img src="https://user-images.githubusercontent.com/125623888/231670528-adef94a1-c34c-4b4f-a9fc-de4bc50b762e.png" width="400px"</img>
 </div>
-
 <br/>
 <hr/>
 
